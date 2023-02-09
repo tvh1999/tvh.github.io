@@ -1,0 +1,29 @@
+@media (max-width: 46.1875em) {
+  body {
+    padding: 40px 30px;
+  }
+
+  /* .product-card {
+    max-width: 270px;
+  } */
+
+  .product-info__price-original {
+    margin-left: 15px;
+  }
+
+  .image-holder {
+    max-height: 246px;
+    overflow: hidden;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+
+  .image-holder img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    object-fit: cover;
+    margin: -109px 0;
+  }
+}
